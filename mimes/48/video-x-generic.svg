@@ -1,15 +1,37 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <svg
-   xmlns:dc="http://purl.org/dc/elements/1.1/"
-   xmlns:cc="http://creativecommons.org/ns#"
-   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
-   xmlns:svg="http://www.w3.org/2000/svg"
-   xmlns="http://www.w3.org/2000/svg"
-   xmlns:xlink="http://www.w3.org/1999/xlink"
    version="1.0"
    width="48"
    height="48"
-   id="svg2453">
+   id="svg2453"
+   sodipodi:docname="video-x-generic.svg"
+   inkscape:version="1.1.1 (3bf5ae0d25, 2021-09-20)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:dc="http://purl.org/dc/elements/1.1/">
+  <sodipodi:namedview
+     id="namedview46"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     showgrid="false"
+     inkscape:zoom="22.922045"
+     inkscape:cx="19.413626"
+     inkscape:cy="22.314763"
+     inkscape:window-width="1920"
+     inkscape:window-height="1030"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg2453" />
   <metadata
      id="metadata35">
     <rdf:RDF>
@@ -80,26 +102,6 @@
        gradientUnits="userSpaceOnUse"
        gradientTransform="matrix(0.08449704,0,0,0.01235294,-6.5396456,38.470822)" />
     <linearGradient
-       id="linearGradient3680-6-6-6-3-7-1-8-8">
-      <stop
-         id="stop3682-4-6-1-3-7-7-4-0"
-         style="stop-color:#dcdcdc;stop-opacity:1"
-         offset="0" />
-      <stop
-         id="stop3684-8-5-8-0-2-6-8-4"
-         style="stop-color:#ffffff;stop-opacity:1"
-         offset="1" />
-    </linearGradient>
-    <linearGradient
-       y2="13.000008"
-       x2="20"
-       y1="26.000008"
-       x1="20"
-       gradientTransform="matrix(1.326882,0,0,1.326882,9.2598082,6.2451596)"
-       gradientUnits="userSpaceOnUse"
-       id="linearGradient3127-4-4"
-       xlink:href="#linearGradient3680-6-6-6-3-7-1-8-8" />
-    <linearGradient
        id="linearGradient2867-449-88-871-390-598-476-591-434-148-57-177-8-3-3-6-4-8-8-8-5-7">
       <stop
          id="stop3750-1-0-7-6-6-1-3-9-3-9"
@@ -138,24 +140,6 @@
          id="stop3470" />
     </linearGradient>
     <linearGradient
-       xlink:href="#linearGradient3680-6-6-6-3-7-1-8-8"
-       id="linearGradient3324"
-       gradientUnits="userSpaceOnUse"
-       gradientTransform="matrix(1.326882,0,0,1.326882,9.2598082,6.2451596)"
-       x1="20"
-       y1="26.000008"
-       x2="20"
-       y2="13.000008" />
-    <linearGradient
-       xlink:href="#linearGradient3680-6-6-6-3-7-1-8-8"
-       id="linearGradient3339"
-       gradientUnits="userSpaceOnUse"
-       gradientTransform="matrix(1.326882,0,0,1.326882,9.2598082,6.2451596)"
-       x1="20"
-       y1="26.000008"
-       x2="20"
-       y2="13.000008" />
-    <linearGradient
        xlink:href="#linearGradient3462"
        id="linearGradient3345"
        gradientUnits="userSpaceOnUse"
@@ -174,23 +158,6 @@
        fx="7.1183534"
        fy="9.9571075"
        r="12.671875" />
-    <linearGradient
-       xlink:href="#linearGradient3680-6-6-6-3-7-1-8-8"
-       id="linearGradient3352"
-       gradientUnits="userSpaceOnUse"
-       gradientTransform="matrix(1.326882,0,0,1.326882,9.2598082,6.2451596)"
-       x1="20"
-       y1="26.000008"
-       x2="20"
-       y2="13.000008" />
-    <filter
-       id="filter7554"
-       color-interpolation-filters="sRGB">
-      <feBlend
-         mode="darken"
-         in2="BackgroundImage"
-         id="feBlend7556" />
-    </filter>
   </defs>
   <g
      id="g3257"
